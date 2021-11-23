@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoMVVM.Core", "TempoMVVM.Core\TempoMVVM.Core.csproj", "{51DE2D1C-91B6-421C-8B19-4E585607ACFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoMVVM.WPF", "TempoMVVM.WPF\TempoMVVM.WPF.csproj", "{A48E9AD0-2FC2-4534-B0DC-608B3D185804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DE2D1C-91B6-421C-8B19-4E585607ACFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DE2D1C-91B6-421C-8B19-4E585607ACFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DE2D1C-91B6-421C-8B19-4E585607ACFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DE2D1C-91B6-421C-8B19-4E585607ACFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48E9AD0-2FC2-4534-B0DC-608B3D185804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48E9AD0-2FC2-4534-B0DC-608B3D185804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48E9AD0-2FC2-4534-B0DC-608B3D185804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48E9AD0-2FC2-4534-B0DC-608B3D185804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627A2706-B86B-4C5B-BCB4-5C8E8CCD6E69}
+	EndGlobalSection
+EndGlobal
